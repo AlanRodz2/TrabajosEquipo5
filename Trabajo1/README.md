@@ -8,6 +8,10 @@
 - Se creará una escena de Blender llamada "escena.blend" que combine todos los modelos 3D realizados por el equipo
 
 ### Showcase
+- Escena Final
+
+![Escena Final](https://github.com/AlanRodz2/TrabajosEquipo5/blob/main/Trabajo1/img/escena.png)
+
 - Alan
 
 ![Alan](https://github.com/AlanRodz2/TrabajosEquipo5/blob/main/Trabajo1/img/alan.png)
@@ -23,7 +27,3 @@
 - Juan
 
 ![Juan](https://github.com/AlanRodz2/TrabajosEquipo5/blob/main/Trabajo1/img/juan.png)
-
-- Escena Final
-
-![Escena Final](/img/juan.png)

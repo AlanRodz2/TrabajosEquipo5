@@ -10,7 +10,7 @@
 ### Showcase
 - Alan
 
-![Alan](/img/alan.png)
+![Alan](https://github.com/AlanRodz2/TrabajosEquipo5/blob/main/Trabajo1/img/alan.png)
 
 - Yoel
 
@@ -18,7 +18,7 @@
 
 - Felipe
 
-![Felipe](/img/felipe.png)
+![Felipe](https://github.com/AlanRodz2/TrabajosEquipo5/blob/main/Trabajo1/img/felipe.png)
 
 - Juan
 

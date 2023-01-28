@@ -22,7 +22,7 @@
 
 - Juan
 
-![Juan](/img/juan.png)
+![Juan](https://github.com/AlanRodz2/TrabajosEquipo5/blob/main/Trabajo1/img/juan.png)
 
 - Escena Final
 

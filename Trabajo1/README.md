@@ -14,7 +14,7 @@
 
 - Yoel
 
-![Yoel](/img/yoel.png)
+![Yoel](https://github.com/AlanRodz2/TrabajosEquipo5/blob/main/Trabajo1/img/yoel.png)
 
 - Felipe
 

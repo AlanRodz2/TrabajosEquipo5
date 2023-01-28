@@ -8,3 +8,22 @@
 - Se creará una escena de Blender llamada "escena.blend" que combine todos los modelos 3D realizados por el equipo
 
 ### Showcase
+- Alan
+
+![Alan](/img/alan.png)
+
+- Yoel
+
+![Yoel](/img/yoel.png)
+
+- Felipe
+
+![Felipe](/img/felipe.png)
+
+- Juan
+
+![Juan](/img/juan.png)
+
+- Escena Final
+
+![Escena Final](/img/juan.png)

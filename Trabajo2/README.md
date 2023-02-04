@@ -7,6 +7,9 @@
 - Se hace una animación con la nueva escena
 
 ### Showcase
+- Enlace al video de la animación
+![Google Drive](https://drive.google.com/file/d/1NYZGvjgPoWoo2su8qUlQQpFuBdmH2OXu/view?usp=sharing)
+
 - Escena
 
 ![Escena](https://github.com/AlanRodz2/TrabajosEquipo5/blob/main/Trabajo2/img/photo.png)

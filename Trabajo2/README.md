@@ -8,7 +8,7 @@
 
 ### Showcase
 - Enlace al video de la animación
-![Google Drive](https://drive.google.com/file/d/1NYZGvjgPoWoo2su8qUlQQpFuBdmH2OXu/view?usp=sharing)
+[Google Drive](https://drive.google.com/file/d/1NYZGvjgPoWoo2su8qUlQQpFuBdmH2OXu/view?usp=sharing)
 
 - Escena
 

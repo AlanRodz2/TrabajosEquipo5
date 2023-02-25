@@ -9,8 +9,7 @@ el dominio de una técnica de simulación física en Blender
 - Posteriormente deberán de agregarse estas técnicas en un solo archivo
 que continue con el trabajo realizado hasta ahora
 
-### Showcase
-- Simulación final: 
+### Simulación final: 
 - Efectos de líquido
 
 ![Líquido1](https://github.com/AlanRodz2/TrabajosEquipo5/blob/main/Trabajo4/img/AlanRamiroRodriguezGonzalez_2.png)

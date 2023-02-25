@@ -14,6 +14,10 @@ que continue con el trabajo realizado hasta ahora
 
 ![Alan](https://github.com/AlanRodz2/TrabajosEquipo5/blob/main/Trabajo4/img/AlanRamiroRodriguezGonzalez_1.png)
 
+Simulación incorporada a la escena:
+![Alan](https://github.com/AlanRodz2/TrabajosEquipo5/blob/main/Trabajo4/img/AlanRamiroRodriguezGonzalez_2.png)
+
+![Alan](https://github.com/AlanRodz2/TrabajosEquipo5/blob/main/Trabajo4/img/AlanRamiroRodriguezGonzalez_3.png)
 
 - Simulación de viento: Yoel Reyes Diaz
 - Simulación de ropa: Juan José Salazar Villega

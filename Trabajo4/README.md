@@ -1,4 +1,4 @@
-# Trabajo 3
+# Trabajo 4
 
 ## 25/02/2023
 
@@ -11,6 +11,9 @@ que continue con el trabajo realizado hasta ahora
 
 ### Showcase
 - Simulación de fluidos: Alan Ramiro Rodríguez González
+![Alan](https://github.com/AlanRodz2/TrabajosEquipo5/blob/main/Trabajo4/img/AlanRamiroRodriguezGonzalez_1.png)
+
+
 - Simulación de viento: Yoel Reyes Diaz
 - Simulación de ropa: Juan José Salazar Villega
 - Simulación de ____: Felipe Alejandro Rosas Mendoza

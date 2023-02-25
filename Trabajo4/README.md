@@ -26,6 +26,15 @@ que continue con el trabajo realizado hasta ahora
 
 ![Alan](https://github.com/AlanRodz2/TrabajosEquipo5/blob/main/Trabajo4/img/AlanRamiroRodriguezGonzalez_1.png)
 
+- Simulación de Ropa y Fuego: Juan José Salazar Villegas
+<br><br>**Fuego**<br><br>
+
+![image](https://user-images.githubusercontent.com/91103822/221375521-9ba8c276-4ae9-4e0f-a318-1069070a250d.png)
+
+<br><br>**Tela**<br><br>
+![image](https://user-images.githubusercontent.com/91103822/221375788-37e879b5-0951-4582-9a25-42845a821b5d.png)
+![image](https://user-images.githubusercontent.com/91103822/221375809-343abbab-b030-4d3f-9392-245fe5d70370.png)
+
 - Simulación de viento: Yoel Reyes Diaz
-- Simulación de ropa: Juan José Salazar Villega
+- Simulación de ropa y Fuego: Juan José Salazar Villegas
 - Simulación de ____: Felipe Alejandro Rosas Mendoza

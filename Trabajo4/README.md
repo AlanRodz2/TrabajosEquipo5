@@ -38,5 +38,4 @@ que continue con el trabajo realizado hasta ahora
 ![image](https://user-images.githubusercontent.com/91103822/221375809-343abbab-b030-4d3f-9392-245fe5d70370.png)
 
 - Simulación de viento: Yoel Reyes Diaz
-- Simulación de ropa y Fuego: Juan José Salazar Villegas
 - Simulación de ____: Felipe Alejandro Rosas Mendoza

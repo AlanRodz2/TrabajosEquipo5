@@ -21,6 +21,7 @@ que continue con el trabajo realizado hasta ahora
 ![Humo](https://github.com/AlanRodz2/TrabajosEquipo5/blob/main/Trabajo4/img/final_2.png)
 
 - Efectos de humo y fuego
+
 ![Humo](https://github.com/AlanRodz2/TrabajosEquipo5/blob/main/Trabajo4/img/final_1.png)
 
 - Simulación de fluidos: Alan Ramiro Rodríguez González

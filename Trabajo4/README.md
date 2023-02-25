@@ -12,11 +12,13 @@ que continue con el trabajo realizado hasta ahora
 ### Showcase
 - Simulación final: 
 - Efectos de líquido
+
 ![Líquido1](https://github.com/AlanRodz2/TrabajosEquipo5/blob/main/Trabajo4/img/AlanRamiroRodriguezGonzalez_2.png)
 
 ![Líquido2](https://github.com/AlanRodz2/TrabajosEquipo5/blob/main/Trabajo4/img/AlanRamiroRodriguezGonzalez_3.png)
 
 - Efectos de explosión
+
 ![Humo](https://github.com/AlanRodz2/TrabajosEquipo5/blob/main/Trabajo4/img/final_2.png)
 
 - Efectos de humo y fuego

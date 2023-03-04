@@ -41,4 +41,10 @@ que continue con el trabajo realizado hasta ahora
 ![image](https://user-images.githubusercontent.com/91103822/221375809-343abbab-b030-4d3f-9392-245fe5d70370.png)
 
 - Simulación de viento: Yoel Reyes Diaz
-- Simulación de ____: Felipe Alejandro Rosas Mendoza
+- Simulación de pintura dinamica: Felipe Alejandro Rosas Mendoza
+Marcas de sangre
+![image](https://user-images.githubusercontent.com/111928640/222881571-fd2fc04a-69a0-4531-8760-29105af53c11.png)
+Charcos agua o sangre
+![image](https://user-images.githubusercontent.com/111928640/222881952-bed14ab2-ec97-4674-8630-6ab887e111c4.png)
+
+
